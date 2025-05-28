@@ -1,4 +1,4 @@
 # CSD 380 DevOps
 ## Contributors:
-  -Professor Bailey
-  -Mark White
+    -Professor Bailey
+    -Mark White
